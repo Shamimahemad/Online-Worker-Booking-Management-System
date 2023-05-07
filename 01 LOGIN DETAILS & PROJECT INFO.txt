@@ -1,6 +1,6 @@
 **Database Name: ecommerceapp**
 
-**Developed by Tauhid Alam**
+**Developed by shamim ahamad**
 
 **Recommended PHP Version 7**
 
